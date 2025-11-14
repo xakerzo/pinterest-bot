@@ -1,0 +1,2 @@
+# config.py
+BOT_TOKEN = "8271736606:AAF-0eJuoDzdDjDXLnKC6GNn4nyFuChxFSI"
